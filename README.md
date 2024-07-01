@@ -50,6 +50,28 @@ GIF created with ...  👉🏿 GIF tool here
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
+## Getting Started
+Prerequisites
+- Node.js (includes npm) installed
+- Git installed
+
+Installation
+Clone the repository:
+git clone https://github.com/your-username/Creatoverse.git
+
+Navigate to the project directory:
+cd Creatoverse
+
+Install dependencies:
+npm install
+
+Running the App
+Start the development server:
+npm run dev
+
+Open your browser and navigate to:
+http://localhost:5173
+
 ## License
 
 Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
