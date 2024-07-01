@@ -1,8 +1,8 @@
-# WEB103 Prework - *👉🏿 Creatoverse*
+# WEB103 Prework - *👉🏿 InfluencerHube*
 
 Submitted by: **👉🏿 Claudia Varona Perez**
 
-About this web app: **👉🏿 Welcome to Creatoverse, a React-based application designed to showcase your favorite content creators. Our app features a user-friendly interface where you can explore at least five content creators on the homepage, each displayed with their name, a link to their channel/page, and a brief description of their content. Clicking on a content creator takes you to their unique details page, providing more in-depth information.
+About this web app: **👉🏿 Welcome to InfluencerHub, a React-based application designed to showcase your favorite content creators. Our app features a user-friendly interface where you can explore at least five content creators on the homepage, each displayed with their name, a link to their channel/page, and a brief description of their content. Clicking on a content creator takes you to their unique details page, providing more in-depth information.
 
 Creatoverse utilizes the async/await design pattern via Axios or fetch() for seamless API calls, ensuring a smooth and responsive experience. You can easily manage your content creators: add new ones, edit existing profiles to update their name, URL, or description, and delete those you no longer follow.
 
