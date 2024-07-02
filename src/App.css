@@ -1,0 +1,23 @@
+
+
+#root {
+  height: 100%;
+  
+}
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100% ;
+  front-family: Arial, sans-serif;
+}
+
+  h1{
+    background: linear-gradient(to right, #0000ff, black, #d43bae); /* Adjust the colors as needed */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+ 
+  
+ 
